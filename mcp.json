@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "nessflow": {
+            "type": "http",
+            "url": "https://mcp.nessflow.com/mcp"
+        }
+    }
+}

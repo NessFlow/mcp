@@ -1,0 +1,22 @@
+{
+    "name": "nessflow",
+    "displayName": "NessFlow",
+    "description": "Ask your assistant about your site audits: health score, regressions, fixes ranked by impact, rankings and crawl logs from your NessFlow projects. Any action that uses your plan is quoted first.",
+    "version": "1.0.0",
+    "author": {
+        "name": "NessFlow"
+    },
+    "homepage": "https://nessflow.com",
+    "repository": "https://github.com/NessFlow/mcp",
+    "license": "MIT",
+    "logo": "assets/icon-512.png",
+    "keywords": [
+        "seo",
+        "site audit",
+        "technical seo",
+        "accessibility",
+        "rank tracking",
+        "mcp"
+    ],
+    "mcpServers": "./mcp.json"
+}

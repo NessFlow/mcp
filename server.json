@@ -1,0 +1,43 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "com.nessflow/mcp",
+    "title": "NessFlow",
+    "description": "Run and read SEO site audits: issues, health score, fixes, rankings and logs.",
+    "version": "1.0.0",
+    "websiteUrl": "https://nessflow.com",
+    "repository": {
+        "url": "https://github.com/NessFlow/mcp",
+        "source": "github"
+    },
+    "icons": [
+        {
+            "src": "https://nessflow.com/logo-navy.svg",
+            "mimeType": "image/svg+xml",
+            "sizes": [
+                "any"
+            ],
+            "theme": "light"
+        },
+        {
+            "src": "https://nessflow.com/logo.svg",
+            "mimeType": "image/svg+xml",
+            "sizes": [
+                "any"
+            ],
+            "theme": "dark"
+        },
+        {
+            "src": "https://nessflow.com/icon-512.png",
+            "mimeType": "image/png",
+            "sizes": [
+                "512x512"
+            ]
+        }
+    ],
+    "remotes": [
+        {
+            "type": "streamable-http",
+            "url": "https://mcp.nessflow.com/mcp"
+        }
+    ]
+}

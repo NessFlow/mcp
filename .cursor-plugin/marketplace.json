@@ -1,0 +1,13 @@
+{
+    "name": "nessflow",
+    "owner": {
+        "name": "NessFlow"
+    },
+    "plugins": [
+        {
+            "name": "nessflow",
+            "source": "./",
+            "description": "Run and read SEO site audits: issues, health score, fixes, rankings and logs."
+        }
+    ]
+}
