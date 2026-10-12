@@ -4,7 +4,7 @@
     "title": "NessFlow",
     "description": "Run and read SEO site audits: issues, health score, fixes, rankings and logs.",
     "version": "1.0.0",
-    "websiteUrl": "https://nessflow.com",
+    "websiteUrl": "https://nessflow.com/en/ai-connector",
     "repository": {
         "url": "https://github.com/NessFlow/mcp",
         "source": "github"
